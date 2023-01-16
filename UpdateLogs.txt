@@ -1,0 +1,1 @@
+Ver 0.0.1: no new fetures other than some things that caused bugs where removed so the software was usable.
