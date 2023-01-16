@@ -1,5 +1,5 @@
 # DeenCoderRemastered
-DeenCoderRemastered Is the remastered version of DeenCoder a Morse code translator built in python compatible with windows. 
+DeenCoderRemastered Is the remastered version of DeenCoder a Morse code translator built in python compatible with windows. Why did I make this? Beacause DeenCoder had many bugs and I thought it would be nice to make it more useable. 
 # Packages 
 DeenCoderRemastered has two main packages go to requirements for info on how to install them or just use these names if you already know.
 colorama | pyttsx3
