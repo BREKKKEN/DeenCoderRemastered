@@ -1,1 +1,2 @@
+Ver 0.0.2: added a thingy that will say !Error in translation! when the translation is blank.
 Ver 0.0.1: no new fetures other than some things that caused bugs where removed so the software was usable.
