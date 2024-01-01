@@ -5,4 +5,4 @@ DeenCoderRemastered Is the remastered version of DeenCoder a Morse code translat
 DeenCoderRemastered has two main packages go to requirements for info on how to install them or just use these names if you already know.
 colorama | pyttsx3
 # Download
-https://github.com/BREKKKEN/DeenCoderRemastered/releases/tag/v0.0.2Remastered
+[https://github.com/BREKKKEN/DeenCoderRemastered/releases/tag/v0.0.2Remastered](https://github.com/BREKKKEN/DeenCoderRemastered/releases/tag/v0.0.3remastered)https://github.com/BREKKKEN/DeenCoderRemastered/releases/tag/v0.0.3remastered
